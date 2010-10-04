@@ -1,1 +1,2 @@
-lib/restler.js
+// convenience file for easily including async testing 
+module.exports = require('./lib/restler');
